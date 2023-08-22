@@ -1,0 +1,56 @@
+{
+    "CREATE": "User Successfully Create",
+    "NOTCREATE": "User not Created",
+    "NOTAUTH": "User can't authorize",
+    "NOTFOUND": "User not Found",
+    "SUCCESS": "User logged in successfully",
+    "NOTSUCCESS": "Couldn't login. Please try again later.",
+    "EMAILEXITS": "User email id alrady Exist.",
+    "MOBILEEXITS": "User phone number alrady Exist.",
+    "DELETE": "User successfully deleted",
+    "ISACTIVE": "You must verify your account and get activate your account",
+    "UPDATE": "User data successfully update.",   
+    
+    "SERVERERROR": "Internal server error",
+    
+    "NOTSENDEMAIL": "Could not send email. please try later",
+    "USERACTIVE": "User activated successfully",
+    "FOUNDUSER":"User Details fatch",
+    "USERLOGOUT":"User successfully logged out",
+    "DELETEERROR":"Error deleting user",
+    "ACTIVEERROR":"Error in deleted not activate",
+    "USERDETAILS":"Username and password are required",
+    "LOGOUTERROR":"Error occurred while logging out",
+
+    "CHECKEMAILID": "We check your email address but not found",
+    "NOTSEND": "Couldn't send mail. Please try again later.",
+    "FOUNDDETAILS": "We will send you an email for OTP",
+    "NOTPROCCESS":"Email id not found",
+
+    "NOTMATCH": "Password doesn,t match",
+    "PASSWORDVALIDATE" :"Password format invalid. Password contain only Number, alphanumeric & special characters.",
+    "OLDPASSWORDMATCH": "New password must be different from the old password",
+    "PASSWORDCHANGE": "Password has been changed",
+    "OLDPASSWORD":"Incorrect current password",
+
+    "TOKEN": "Couldn't create access token. Please try again later",
+    "TOKENCREATE": "Token Successfully Created",
+    "TOKENAUTH":"Authentication failed",
+    "TOKENINVALID": "Invalid Token",
+   
+
+    "OTPNOTMATCH": "OTP not Verify or not match",
+    "OTPVIRIFY":"Otp verify successfully",
+    "OTPEXPIRED": "Otp expired",
+
+
+    "ADMINNOTFOUND": "Admin not Found",
+    "ADMINSUCCESS": "Admin logged in successfully",
+    "ADMINSINGUPERROR":"Already admin registered, So you can't registered new admin",
+
+    "FILDSREQUIRE":"All fields required",
+    "TIMEOUT": "Session time out"
+    
+
+
+}
